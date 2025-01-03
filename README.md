@@ -1,2 +1,3 @@
-# lame
- A boring lua package for rendering HTML in the console.
+# Lame
+
+Lame is a boring lua tool/package that renders your `html`, `xml` or `lml` (lua markuo language) files in the terminal window.
